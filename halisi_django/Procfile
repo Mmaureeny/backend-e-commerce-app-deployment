@@ -1,0 +1,1 @@
+web: gunicorn halisi_django.wsgi --log-file -
